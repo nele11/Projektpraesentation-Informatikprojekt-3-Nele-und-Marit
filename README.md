@@ -13,8 +13,9 @@ Hauptfigur dieses Spiels ist der mit den Pfeiltasten steuerbare Luigi. Durch dr�
 ![Screenshot01](Bilder/Screenshot.sltng.44.png "sltng")
 ![Screenshot01](Bilder/Screenshot.sltng.45.png "sltng")
 
-Die Löwen bewegen sich genau wie die Giraffen willkürlich im Spaceland. Auch hierzu programmiert man Prozeduren. Trifft ein Löwe auf Luigi, so frisst er diesen und das Spiel ist vorbei. Auch hierzu benutzt man einen Kollisionsblock. Mit Hilfe von "die" Blöcken lässte man alle Charaktere des Spiels verschwinden. Außerdem erstellt man das Feuer, welches groß erscheint. Man benutzt einen "say" Block, um den Schriftzug "game over" erscheinen zu lassen. Wird Luigi von einem Löwen gefresse, erscheinen nun das Feuer und der Schriftzug.
+Die Löwen bewegen sich genau wie die Giraffen willkürlich im Spaceland. Auch hierzu programmiert man Prozeduren. Trifft ein Löwe auf Luigi, so frisst er diesen und das Spiel ist vorbei. Auch hierzu benutzt man einen Kollisionsblock. Mit Hilfe von "die" Blöcken lässte man alle Charaktere des Spiels verschwinden. Außerdem erstellt man mit der hatch-Funktion das Feuer, genau so wie man vorher die Paintbälle erstellt hat. Das Feuer erscheint nun groß. Man benutzt einen "say" Block, um den Schriftzug "game over" erscheinen zu lassen. Wird Luigi von einem Löwen gefresse, erscheinen nun das Feuer und der Schriftzug.
 
+![Screenshot01](Bilder/Screenshot.sltng.46.png "sltng")
 
 ## Projekt 2: Epidemie
 
