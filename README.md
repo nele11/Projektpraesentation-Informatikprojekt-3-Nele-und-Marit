@@ -3,7 +3,9 @@
 ## Projekt 1: Paintballspiel
 
 Das erste Projekt dieses Informatikprojektes stellt der Ego-Shooter dar, den wir bereits in unserem zweiten Informatikprojekt angefangen hatten. Wir ergänzten das Spiel um Wände, welche im Spaceland stehen und Luigi daran hindern, sich frei zu bewegen. 
-Um Wände zu erstellen benutzt man den Terrain Editor. Mit Hilfe des Drawing Tolls kann man die Wände zwecks besserer Übersichtlichkeit bunt anmalen. Damit die Paintbälle, Tiere und Luigi nicht einfach durch die Wände durchlaufen benutzt man den "wall ahead" Block in Verbindung mit einem "if-test-then" Block und lässt sie sich drehen, wenn sie auf eine Wand treffen. Die Paintbälle lässt man mit Hilfe eines "die" Blockes verschwinden.
+Um Wände zu erstellen benutzt man den Terrain Editor. Mit Hilfe des Drawing Tools kann man die Wände zwecks besserer Übersichtlichkeit bunt anmalen. Damit die Paintbälle, Tiere und Luigi nicht einfach durch die Wände durchlaufen benutzt man den "wall ahead" Block in Verbindung mit einem "if-test-then" Block und lässt sie sich drehen, wenn sie auf eine Wand treffen. Die Paintbälle lässt man mit Hilfe eines "die" Blockes verschwinden.
+
+![Screenshot01](Bilder/Screenshot.sltng.42.png "sltng")
 
 Hauptfigur dieses Spiels ist der mit den Pfeiltasten steuerbare Luigi. Durch drücken der Leertaste werden Paintbälle erstellt. Hierzu muss man die "hatch"- Funktion benutzen. Diese erstellt zunächst eine Kopie des Luigi. Dann muss man eine neue Art, den Paintball, erstellen. Mit Hilfe des "set Breed" Blockes verwandelt man die Luigi-Kopie in einen Paintball. Damit die Giraffen und Löwen abgeschossen werden können programmiert man zwei neue Kollisionen. Mit Hilfe eines "die" Blockes lässt man die Löwen sterben, wenn sie getroffen werden. Die Giraffen verfärben sich nur rot. Auch die Paintbälle verschwinden, wenn sie etwas getroffen haben.
 
