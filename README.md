@@ -28,3 +28,5 @@ Die Bären können die Eigenschaft "ist Krank" besitzen. Ein gewisser, einstellb
 ![Screenshot01](Bilder/Screenshot.sltng.48.png "sltng")
 
 Es gibt die Möglichkeit, dass kranke Bären wieder gesund werden und dann immun sind. Auch die Wahrscheinlichkeit, dass das passiert lässt sich einstellen. Hierzu benutzt man einen weiteren Slider, genau so wie bei der Ansteckungswahrscheinlichkeit. Außerdem erstellt man die Eigenschaft "ist immun", die dann als Wahr oder falsch wiedergegeben wird. Damit immune Bären nicht mehr krank werden können, muss man den Kollisionsblock verändern, indem man vorher die Ansteckungswahrscheinlichkeit programmiert hatte. Man muss als eine weitere Bedingung dafür, dass der Bär die Eigenschaft "ist krank" bekommen kann hinzufügen, dass er nicht die Eigenschaft "ist immun" besitzt.  Gesunde Bären sind blau, kranke rot. Immune Bären färben sich grün. Einen Überblick über die Bären und ihre Eigenschaften kann man sich Mit Hilfe eines Bakendiagrammes verschaffen, welches sich unter dem Spaceland befindet und die Bären, die die jeweiligen Eigenschaften besitzen zählt.
+
+![Screenshot01](Bilder/Screenshot.sltng.49.png "sltng")
