@@ -10,6 +10,8 @@ Um Wände zu erstellen benutzt man den Terrain Editor. Mit Hilfe des Drawing Too
 
 Hauptfigur dieses Spiels ist der mit den Pfeiltasten steuerbare Luigi. Durch drücken der Leertaste werden Paintbälle erstellt. Hierzu muss man die "hatch"- Funktion benutzen. Diese erstellt zunächst eine Kopie des Luigi. Dann muss man eine neue Art, den Paintball, erstellen. Mit Hilfe des "set Breed" Blockes verwandelt man die Luigi-Kopie in einen Paintball. Damit die Giraffen und Löwen abgeschossen werden können programmiert man zwei neue Kollisionen. Mit Hilfe eines "die" Blockes lässt man die Löwen sterben, wenn sie getroffen werden. Die Giraffen verfärben sich nur rot. Auch die Paintbälle verschwinden, wenn sie etwas getroffen haben.
 
+![Screenshot01](Bilder/Screenshot.sltng.44.png "sltng")
+
 Die Löwen bewegen sich genau wie die Giraffen willkürlich im Spaceland. Auch hierzu programmiert man Prozeduren. Trifft ein Löwe auf Luigi, so frisst er diesen und das Spiel ist vorbei. Auch hierzu benutzt man einen Kollisionsblock. Mit Hilfe von "die" Blöcken lässte man alle Charaktere des Spiels verschwinden. Außerdem erstellt man das Feuer, welches groß erscheint. Man benutzt einen "say" Block, um den Schriftzug "game over" erscheinen zu lassen. Wird Luigi von einem Löwen gefresse, erscheinen nun das Feuer und der Schriftzug.
 
 
